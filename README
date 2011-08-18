@@ -1,0 +1,2 @@
+To build the project simply use:
+mvn clean package

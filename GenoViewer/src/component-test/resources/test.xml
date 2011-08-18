@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="hu">
+      <map/>
+      <node name="astrid">
+        <map/>
+        <node name="viewer">
+          <map/>
+          <node name="properties">
+            <map>
+              <entry key="lastOpenedBAMDirectory" value="E:\Test\ViewerTestData"/>
+              <entry key="lastOpenedBAMFiles" value=";E:\Test\ViewerTestData\test.bam;E:\Test\seqdata\ViewerTestData\test.bam"/>
+              <entry key="lastOpenedSAMDirectory" value="E:\Test\ViewerTestData"/>
+              <entry key="lastOpenedSAMFiles" value=";E:\Test\ViewerTestData\test.sam;E:\Test\ViewerTestData\c1215jo.sam;E:\Test\seqdata\ViewerTestData\test.sam;E:\Test\seqdata\ViewerTestData\c1215jo.sam"/>
+              <entry key="lastOpenedFASTADirectory" value="E:\Test\ViewerTestData"/>
+              <entry key="lastOpenedFASTAFiles" value=";E:\Test\ViewerTestData\test.fasta;E:\Test\ViewerTestData\c1215.fasta;E:\Test\seqdata\ViewerTestData\c1215.fasta"/>
+              <entry key="lastOpenedGFFDirectory" value="E:\Test\ViewerTestData"/>
+              <entry key="lastOpenedGFFFiles" value=";E:\Test\ViewerTestData\test.gff;E:\Test\ViewerTestData\teszt.gff"/>
+              <entry key="locale" value="en_US"/>
+              <entry key="lastProfile" value="default"/>
+            </map>
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>
